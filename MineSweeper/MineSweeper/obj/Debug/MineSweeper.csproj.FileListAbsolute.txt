@@ -1,0 +1,9 @@
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+c:\users\matteo.montani\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
